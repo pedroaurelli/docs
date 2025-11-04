@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Cogfy Messenger",
   "colors": {
-    "primary": "#1631a8",
-    "light": "#0a11cc",
-    "dark": "#10156e"
+    "primary": "#42B62B",
+    "light": "#369B22",
+    "dark": "#3CDD5C"
   },
   "favicon": "/favicon.ico",
   "navigation": {
@@ -57,12 +57,10 @@
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Broadcasts",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "api-reference/endpoint/broadcasts/get",
+              "api-reference/endpoint/broadcasts/create"
             ]
           }
         ]
@@ -71,14 +69,9 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Cogfy Messenger",
+          "href": "https://cogfy.com/messenger",
+          "icon": "link"
         }
       ]
     }
@@ -87,19 +80,7 @@
     "light": "/logo/indigo-hive.png",
     "dark": "/logo/indigo-hive.png"
   },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
-  },
+  "navbar": {},
   "contextual": {
     "options": [
      "copy",
@@ -118,5 +99,8 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "api": {
+    "openapi": "api-reference/openapi.json"
   }
 }
