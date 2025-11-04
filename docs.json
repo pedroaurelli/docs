@@ -88,6 +88,16 @@
                   "api-reference/endpoint/embeddings/get-from-source",
                   "api-reference/endpoint/embeddings/create-question-and-answers"
                 ]
+              },
+              {
+                "group": "Tags",
+                "pages": [
+                  "api-reference/endpoint/tags/create",
+                  "api-reference/endpoint/tags/get",
+                  "api-reference/endpoint/tags/delete",
+                  "api-reference/endpoint/tags/update-by-id",
+                  "api-reference/endpoint/tags/get-by-id"
+                ]
               }
             ]
           }
