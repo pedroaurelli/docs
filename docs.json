@@ -70,6 +70,16 @@
                 ]
               },
               {
+                "group": "Contacts",
+                "pages": [
+                  "api-reference/endpoint/contacts/create",
+                  "api-reference/endpoint/contacts/delete",
+                  "api-reference/endpoint/contacts/get-by-id",
+                  "api-reference/endpoint/contacts/update-by-id",
+                  "api-reference/endpoint/contacts/get"
+                ]
+              },
+              {
                 "group": "Embeddings",
                 "pages": [
                   "api-reference/endpoint/embeddings/delete",
@@ -95,8 +105,8 @@
     }
   },
   "logo": {
-    "light": "/logo/indigo-hive.png",
-    "dark": "/logo/indigo-hive.png"
+    "light": "/logo/Dark.svg",
+    "dark": "/logo/Light.svg"
   },
   "navbar": {},
   "contextual": {
