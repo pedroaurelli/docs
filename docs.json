@@ -59,8 +59,10 @@
           {
             "group": "Broadcasts",
             "pages": [
-              "api-reference/endpoint/broadcasts/get",
-              "api-reference/endpoint/broadcasts/create"
+              "api-reference/endpoint/broadcasts/create",
+              "api-reference/endpoint/broadcasts/list",
+              "api-reference/endpoint/broadcasts/get-by-id",
+              "api-reference/endpoint/broadcasts/send"
             ]
           }
         ]
