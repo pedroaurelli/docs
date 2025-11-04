@@ -53,16 +53,32 @@
           {
             "group": "API documentation",
             "pages": [
-              "api-reference/introduction"
+              "api-reference/introduction",
+              "api-reference/authentication"
             ]
           },
           {
-            "group": "Broadcasts",
+            "group": "Endpoints",
             "pages": [
-              "api-reference/endpoint/broadcasts/create",
-              "api-reference/endpoint/broadcasts/list",
-              "api-reference/endpoint/broadcasts/get-by-id",
-              "api-reference/endpoint/broadcasts/send"
+              {
+                "group": "Broadcasts",
+                "pages": [
+                  "api-reference/endpoint/broadcasts/create",
+                  "api-reference/endpoint/broadcasts/list",
+                  "api-reference/endpoint/broadcasts/get-by-id",
+                  "api-reference/endpoint/broadcasts/send"
+                ]
+              },
+              {
+                "group": "Embeddings",
+                "pages": [
+                  "api-reference/endpoint/embeddings/delete",
+                  "api-reference/endpoint/embeddings/get-by-id",
+                  "api-reference/endpoint/embeddings/create",
+                  "api-reference/endpoint/embeddings/get-from-source",
+                  "api-reference/endpoint/embeddings/create-question-and-answers"
+                ]
+              }
             ]
           }
         ]
