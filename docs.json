@@ -99,6 +99,19 @@
                 ]
               },
               {
+                "group": "Messages",
+                "pages": [
+                  "api-reference/endpoint/messages/send-audio",
+                  "api-reference/endpoint/messages/send-contacts",
+                  "api-reference/endpoint/messages/send-document",
+                  "api-reference/endpoint/messages/send-image",
+                  "api-reference/endpoint/messages/send-interactive-button",
+                  "api-reference/endpoint/messages/send-interactive-cta-url",
+                  "api-reference/endpoint/messages/send-interactive-flow",
+                  "api-reference/endpoint/messages/send-interactive-list"
+                ]
+              },
+              {
                 "group": "Tags",
                 "pages": [
                   "api-reference/endpoint/tags/create",
