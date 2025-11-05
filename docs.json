@@ -108,7 +108,15 @@
                   "api-reference/endpoint/messages/send-interactive-button",
                   "api-reference/endpoint/messages/send-interactive-cta-url",
                   "api-reference/endpoint/messages/send-interactive-flow",
-                  "api-reference/endpoint/messages/send-interactive-list"
+                  "api-reference/endpoint/messages/send-interactive-list",
+                  "api-reference/endpoint/messages/send-interactive-order-details",
+                  "api-reference/endpoint/messages/send-interactive-order-status",
+                  "api-reference/endpoint/messages/send-location",
+                  "api-reference/endpoint/messages/send-reaction",
+                  "api-reference/endpoint/messages/send-sticker",
+                  "api-reference/endpoint/messages/send-template",
+                  "api-reference/endpoint/messages/send-text",
+                  "api-reference/endpoint/messages/send-video"
                 ]
               },
               {
