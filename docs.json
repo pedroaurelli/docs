@@ -24,7 +24,7 @@
           {
             "group": "Workspaces",
             "pages": [
-              "workspace"
+              "guide/workspaces/overview"
             ]
           },
           {
