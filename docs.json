@@ -70,6 +70,15 @@
                 ]
               },
               {
+                "group": "Conversations",
+                "pages": [
+                  "api-reference/endpoint/conversations/get",
+                  "api-reference/endpoint/conversations/get-by-id",
+                  "api-reference/endpoint/conversations/send-message",
+                  "api-reference/endpoint/conversations/get-messages"
+                ]
+              },
+              {
                 "group": "Contacts",
                 "pages": [
                   "api-reference/endpoint/contacts/create",
