@@ -22,9 +22,12 @@
             ]
           },
           {
-            "group": "Workspaces",
+            "group": "Workspace",
             "pages": [
-              "guide/workspaces/overview"
+              "guide/workspaces/overview",
+              "guide/workspaces/members",
+              "guide/workspaces/tags",
+              "guide/workspaces/api-keys"
             ]
           },
           {
