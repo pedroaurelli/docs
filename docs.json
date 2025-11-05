@@ -62,6 +62,7 @@
             "pages": [
               {
                 "group": "Broadcasts",
+                "expanded": true,
                 "pages": [
                   "api-reference/endpoint/broadcasts/create",
                   "api-reference/endpoint/broadcasts/list",
@@ -71,6 +72,7 @@
               },
               {
                 "group": "Conversations",
+                "expanded": true,
                 "pages": [
                   "api-reference/endpoint/conversations/get",
                   "api-reference/endpoint/conversations/get-by-id",
@@ -80,6 +82,7 @@
               },
               {
                 "group": "Contacts",
+                "expanded": true,
                 "pages": [
                   "api-reference/endpoint/contacts/create",
                   "api-reference/endpoint/contacts/delete",
@@ -90,6 +93,7 @@
               },
               {
                 "group": "Embeddings",
+                "expanded": true,
                 "pages": [
                   "api-reference/endpoint/embeddings/delete",
                   "api-reference/endpoint/embeddings/get-by-id",
@@ -100,6 +104,7 @@
               },
               {
                 "group": "Messages",
+                "expanded": true,
                 "pages": [
                   "api-reference/endpoint/messages/send-audio",
                   "api-reference/endpoint/messages/send-contacts",
@@ -121,6 +126,7 @@
               },
               {
                 "group": "Tags",
+                "expanded": true,
                 "pages": [
                   "api-reference/endpoint/tags/create",
                   "api-reference/endpoint/tags/get",
